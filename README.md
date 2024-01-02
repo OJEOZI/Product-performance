@@ -1,0 +1,1 @@
+The cafe/lounge was noticing some obvious reduction in sales, revenue as well as store and online traffic. A product performance analysis was recommended in order to, firstly, diagonize and see what the cause of this reduction was, and secondly, what would be the way out.
