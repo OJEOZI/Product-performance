@@ -12,7 +12,8 @@ As part of routine operation, Cornerstore: a Cafe/lounge decided to have a revie
 ### Data Collection and Data Cleaning 
 In order to get an indepth and holistic view of the problem and then a solution, sales record from the last 3 years of operation was exported from the Point Of Sale(POS) software to a csv file. The cleaning process was done with excel; appropraitely attending to duplicates, missing values, unnecessary columns etc., checking validity of data and ensuring all columns had the right data type.
 ### Data Analysis and Vizualization
-The analysis process considers the progeression of products over the period of years analyzed. Basically inquiring and indicating total unit sales of these products, total revenue from sales of these products, etc., all across 2020, 2021 and 2022.
+The analysis process considers the progeression of products over the period of years analyzed. Basically inquiring and indicating total unit sales of these products, total revenue from sales of these products, etc., all across 2020, 2021 and 2022. Results were visualized in basically line graphs and bar chart.
+
 
 ![Snip PPD](https://github.com/OJEOZI/Product-performance-analysis/assets/147529527/417a21fe-89e0-4008-adcc-fe24a9d798da)
 
