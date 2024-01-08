@@ -5,10 +5,10 @@ As part of routine operation, Cornerstore: a Cafe/lounge decided to have a revie
 * To know sales of the various products
 * To know revenue from sales of various products
 * Consider customers review of various products
-   #### Based on the above inquiries;
-* Determine which products should remain, which should be removed, and which should be improved on purely based on unit sales performance.
-* Determine which products should remian on the menu because they raked in significantly high revenue despise recording low on unit sales.
-* Determine which product(s) should remain on the menu because reviews have revealed they have their unique audience.
+   #### Actionable results:
+* Determined which products should remain, which should be removed, and which should be improved on purely based on unit sales performance.
+* Determined which products should remian on the menu because they raked in significantly high revenue despise recording low on unit sales.
+* Determined which product(s) should remain on the menu because reviews have revealed they have their unique audience.
 ### Data Collection and Data Cleaning 
 In order to get an indepth and holistic view of the problem and then a solution, sales record from the last 3 years of operation was exported from the Point Of Sale(POS) software to a csv file. The cleaning process was done with excel; appropraitely attending to duplicates, missing values, unnecessary columns etc., checking validity of data and ensuring all columns had the right data type.
 ### Data Analysis and Vizualization
