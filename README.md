@@ -5,7 +5,7 @@ As part of routine operation, Cornerstore: a Cafe/lounge decided to have a revie
 * To know sales of the various products
 * To know revenue from sales of various products
 * Consider customers review of various products
-   #### Actionable results:
+   ### Actionable results:
 * Determined which products should remain, which should be removed, and which should be improved on purely based on unit sales performance.
 * Determined which products should remian on the menu because they raked in significantly high revenue despise recording low on unit sales.
 * Determined which product(s) should remain on the menu because reviews have revealed they have their unique audience.
